@@ -1,4 +1,4 @@
-![Asteroid](asteroid.png)
+![Asteroid](asteroid2.png)
 
 Welcome! Kaboom is a JavaScript library that helps you make games fast and fun :D
 
