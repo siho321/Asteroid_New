@@ -1,4 +1,5 @@
 ![Asteroid]20%(asteroid2.png)
+<img src="https://asteroid2.png" width="300">
 
 Welcome! Kaboom is a JavaScript library that helps you make games fast and fun :D
 
